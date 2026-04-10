@@ -1,2 +1,18 @@
-# Sales-dashboard-excel
-Interactive Sales Dashboard built using Excel with data cleaning, pivot tables, and visualizations. Provides insights on revenue, trends, and top-performing products for data-driven decision making.
+# Sales Insights Dashboard
+
+## Overview
+Created interactive dashboard using Excel.
+
+## Features
+- KPI metrics
+- Sales trends
+- Filters
+
+## Tools
+- Excel
+- Pivot Tables
+- Charts
+
+## Insights
+- Monthly trends
+- Top products
